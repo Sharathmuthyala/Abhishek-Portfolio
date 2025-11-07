@@ -39,3 +39,7 @@ Desktop.ini
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# Original image files
+profile_original.heic
+*.heic
